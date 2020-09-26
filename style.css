@@ -29,7 +29,7 @@ body{
 	top: 0;
 	background: url("https://cdn-images-1.medium.com/freeze/max/1000/1*tkp7o9XLl-RE3hjRZZIC8Q.jpeg?q=20") no-repeat center;
 	background-size: cover;
-	filter: blur(50px);
+	filter: blur(3px);
 	z-index: -1;
 }
 .contact-box{
@@ -44,7 +44,7 @@ body{
 }
 
 .left{
-	background: url("https://images.livemint.com/img/2020/05/01/600x338/2020-05-01T042824Z_1_LYNXMPEG402QP_RTROPTP_3_MARUTI-SUZUKI-IN-RESULTS_1588308067911_1588309793715.JPG") no-repeat center;
+	background: url("https://files.cults3d.com/uploaders/15233766/illustration-file/4a78bb1b-0142-4fd2-9e09-c3ae5e65fdf2/1.jpg") no-repeat center;
 	background-size: cover;
 	height: 100%;
 }
