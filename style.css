@@ -29,7 +29,7 @@ body{
 	top: 0;
 	background: url("https://cdn-images-1.medium.com/freeze/max/1000/1*tkp7o9XLl-RE3hjRZZIC8Q.jpeg?q=20") no-repeat center;
 	background-size: cover;
-	filter: blur(3px);
+	filter: blur(2px);
 	z-index: -1;
 }
 .contact-box{
@@ -44,7 +44,7 @@ body{
 }
 
 .left{
-	background: url("https://files.cults3d.com/uploaders/15233766/illustration-file/4a78bb1b-0142-4fd2-9e09-c3ae5e65fdf2/1.jpg") no-repeat center;
+	background: url("https://m.hindustantimes.com/rf/image_size_960x540/HT/p2/2020/05/12/Pictures/glass-showroom-delhi-maruti-suzuki-india-limited_1b34efaa-93e1-11ea-84fe-62f09e00e282.jpg") no-repeat center;
 	background-size: cover;
 	height: 100%;
 }
